@@ -155,13 +155,57 @@ The project includes four interactive dashboards designed to support business de
 - Create additional dashboards for inventory and shipping performance.
 - Automate data refresh using scheduled ETL processes.
 
+---
+
+# 📊 Dashboard Preview
+
+The following screenshots showcase the four interactive Power BI dashboards developed as part of this project.
+
+## 🏠 Retail Sales Performance Dashboard
+
+*Provides an overview of key business KPIs, monthly sales trends, sales by category, and regional performance.*
+
+![Retail Sales Performance Dashboard](Dashboard%20Screenshots/Executive%20Dashboard.png)
+
+---
+
+## 💰 Profit Analysis Dashboard
+
+*Analyzes profitability across categories, states, and cities while highlighting both high-performing and loss-making areas.*
+
+![Profit Analysis Dashboard](Dashboard%20Screenshots/Profit%20Dashboard.png)
+
+---
+
+## 👥 Customer Analysis Dashboard
+
+*Evaluates customer behavior, customer segments, shipping modes, and identifies top customers by sales and profit.*
+
+![Customer Analysis Dashboard](Dashboard%20Screenshots/Customer%20Dashboard.png)
+
+---
+
+## 📦 Product Analysis Dashboard
+
+*Examines product sales, profitability, sub-category performance, and identifies the best and worst-performing products.*
+
+![Product Analysis Dashboard](Dashboard%20Screenshots/Product%20Dashboard.png)
+
 
 ---
 
 # 👨‍💻 Author
 
-**G. Immaniyel**
+## G. Immaniyel
 
-MBA (Business Analytics & Marketing)
+**MBA – Business Analytics & Marketing**
 
-GitHub: https://github.com/Immaniyel-G
+### Skills
+- MySQL
+- Power BI
+- SQL
+- Business Analytics
+- Data Visualization
+
+### GitHub
+https://github.com/Immaniyel-G

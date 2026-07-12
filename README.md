@@ -70,3 +70,65 @@ The cleaned dataset was used for SQL analysis and Power BI dashboard development
 | Power BI | Dashboard Development |
 | GitHub | Project Portfolio |
 | CSV | Dataset |
+
+---
+
+# 💻 SQL Skills Demonstrated
+
+Throughout this project, the following SQL concepts and techniques were applied:
+
+### SQL Fundamentals
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- LIMIT
+
+### Aggregate Functions
+- SUM()
+- COUNT()
+- AVG()
+- MIN()
+- MAX()
+
+### Conditional Logic
+- CASE WHEN
+
+### Advanced SQL
+- Common Table Expressions (CTEs)
+- Window Functions
+- RANK()
+- PARTITION BY
+- LAG()
+- Running Totals
+
+### Business Analysis Techniques
+- Pareto Analysis (80/20 Rule)
+- Profit Margin Analysis
+- Month-over-Month Growth
+- Customer Segmentation
+- Product Performance Analysis
+
+---
+
+# 📊 Power BI Dashboard
+
+The project includes four interactive dashboards designed for business stakeholders.
+
+| Dashboard | Purpose |
+|-----------|---------|
+| Executive Dashboard | Overall business performance and KPIs |
+| Profit Analysis Dashboard | Profitability across regions, cities, and categories |
+| Customer Analysis Dashboard | Customer performance and purchasing behavior |
+| Product Analysis Dashboard | Product sales, profit, and category performance |
+
+---
+
+# 💡 Key Business Insights
+
+- The company generated **₹2.30M** in total sales.
+- Overall profit reached **₹286.40K** with a **12.47% profit margin**.
+- Technology was the highest-selling product category.
+- The West region generated the highest sales.
+- A small number of products contributed to the majority of sales (Pareto Principle).
+- Some cities generated strong sales but low profitability, indicating opportunities for pricing and cost optimization.

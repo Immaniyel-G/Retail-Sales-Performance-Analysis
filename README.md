@@ -111,17 +111,16 @@ Throughout this project, the following SQL concepts and techniques were applied:
 
 ---
 
-# 📊 Power BI Dashboard
+# 📊 Power BI Dashboards
 
-The project includes four interactive dashboards designed for business stakeholders.
+The project includes four interactive dashboards designed to support business decision-making.
 
 | Dashboard | Purpose |
 |-----------|---------|
-| Executive Dashboard | Overall business performance and KPIs |
-| Profit Analysis Dashboard | Profitability across regions, cities, and categories |
-| Customer Analysis Dashboard | Customer performance and purchasing behavior |
-| Product Analysis Dashboard | Product sales, profit, and category performance |
-
+| Retail Sales Performance Dashboard | Displays overall business performance, including key KPIs, monthly sales trends, sales by category, and sales by region. |
+| Profit Analysis Dashboard | Analyzes profitability across categories, states, and cities, and identifies high-profit and loss-making areas. |
+| Customer Analysis Dashboard | Evaluates customer performance, customer segments, shipping modes, and top customers by sales and profit. |
+| Product Analysis Dashboard | Examines product sales, profitability, sub-categories, and category performance to identify top and underperforming products. |
 ---
 
 # 💡 Key Business Insights
@@ -132,3 +131,37 @@ The project includes four interactive dashboards designed for business stakehold
 - The West region generated the highest sales.
 - A small number of products contributed to the majority of sales (Pareto Principle).
 - Some cities generated strong sales but low profitability, indicating opportunities for pricing and cost optimization.
+
+
+---
+
+# ▶️ How to Use This Project
+
+1. Download or clone this repository.
+2. Import the cleaned dataset into MySQL.
+3. Execute the SQL script to reproduce the analysis.
+4. Open the Power BI (.pbix) file.
+5. Refresh the dataset if required.
+6. Explore the interactive dashboards using the available slicers and navigation buttons.
+
+
+---
+
+# 🚀 Future Improvements
+
+- Develop predictive sales forecasting models.
+- Build customer segmentation using machine learning.
+- Connect Power BI directly to a live SQL database.
+- Create additional dashboards for inventory and shipping performance.
+- Automate data refresh using scheduled ETL processes.
+
+
+---
+
+# 👨‍💻 Author
+
+**G. Immaniyel**
+
+MBA (Business Analytics & Marketing)
+
+GitHub: https://github.com/Immaniyel-G
